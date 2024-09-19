@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api/favoris";
+const API_URL = "https://magnetic-ruddy-jelly.glitch.me/api/favoris";
 
 function API_GetFavoris() {
     return new Promise(resolve => {
